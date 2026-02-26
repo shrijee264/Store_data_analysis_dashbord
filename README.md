@@ -50,4 +50,6 @@ Found strong positive correlation between net sales and profit.
 Observed seasonal sales spikes during specific time periods.
 
 Enabled management to optimize promotions and focus on high-margin products.
+
+https://github.com/shrijee264/Store_data_analysis_dashbord/blob/main/Dashboard_page1.png
    
