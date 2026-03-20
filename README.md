@@ -1,55 +1,113 @@
-# Store_data_analysis_dashbord
+# 🛒 Store Data Analysis Dashboard  
 
-Retail Sales & Performance Analytics Dashboard (Power BI)
+**Retail Sales & Performance Analytics Dashboard (Power BI)**  
 
-This dashboard analyzes store sales data to track revenue, profit, quantity sold, product performance, promotional impact, and city-wise sales trends. It helps business stakeholders identify top and underperforming products, monitor profitability, and make data-driven decisions to improve overall retail performance.
+This project presents an interactive **Power BI dashboard** designed to analyze retail store performance across multiple dimensions such as **sales, profit, quantity, product trends, promotions, and geographic distribution**.  
 
-Tech Stack
+It enables stakeholders to **track KPIs, identify growth opportunities, and make data-driven business decisions**.
 
--Power BI Desktop – Interactive dashboard development and data visualization
+---
 
--DAX (Data Analysis Expressions) – Created measures for Total Sales, Profit, Quantity, and KPI calculations
+## 📌 Project Overview  
 
--Power Query (M Language) – Data cleaning, transformation, and preprocessing
+Retail businesses generate large volumes of transactional data but often lack a **centralized analytics system** to extract actionable insights.  
 
--Data Modeling – Built relationships between Orders, Customers, Products, and Promotions tables
+This dashboard solves that problem by providing a **comprehensive, interactive BI solution** that helps in:  
 
--Microsoft Excel (CSV) – Data source containing transactional retail data
+- Monitoring overall business performance  
+- Identifying top & underperforming products  
+- Analyzing the effectiveness of promotions  
+- Tracking city-wise and time-based sales trends  
 
-Business Problem - 
-Retail businesses often struggle to track sales performance, profitability, product trends, and promotional effectiveness across multiple cities. Without a centralized view, identifying top-performing products, loss-making items, and growth opportunities becomes difficult.
+---
 
-Goal of the Dashboard - 
-To provide an interactive business intelligence solution that monitors sales, profit, quantity sold, promotional impact, and regional performance—enabling data-driven decision-making for revenue and profit optimization.
+## 🧰 Tech Stack  
 
-Walkthrough of Key Visuals
+- **Power BI Desktop** – Dashboard development & visualization  
+- **DAX (Data Analysis Expressions)** – KPI calculations & measures  
+- **Power Query (M Language)** – Data cleaning & transformation  
+- **Data Modeling** – Relationship building across tables  
+- **Microsoft Excel (CSV)** – Source data  
 
-Sales by City (Map View) – Displays geographic distribution of sales to identify high-performing regions.
+---
 
-Profit vs Net Sales (Scatter Plot) – Analyzes the relationship between revenue and profitability.
+## ❗ Business Problem  
 
-Sales Trends Over Time – Tracks performance patterns and seasonal fluctuations from 2020–2024.
+Retail businesses struggle with:  
 
-Top & Bottom 5 Products (Sales, Quantity, Profit) – Identifies best-selling and underperforming products.
+- Lack of visibility into **sales & profit performance**  
+- Difficulty identifying **top-performing vs loss-making products**  
+- Ineffective tracking of **promotional impact**  
+- Limited insights into **regional (city-wise) performance**  
 
-Promotion Performance Analysis – Evaluates average discount impact across promotional categories.
+---
 
-KPI Cards (Total Sales, Profit, Quantity) – Provides quick executive-level performance summary.
+## 🎯 Objective  
 
-Interactive Filters (Date, Product, Customer, Promotion) – Enables dynamic data exploration.
+To build an **interactive analytics dashboard** that:  
 
+- Tracks **Total Sales, Profit, and Quantity Sold**  
+- Analyzes **product and promotion performance**  
+- Provides **city-wise and time-based insights**  
+- Supports **data-driven decision-making**  
 
-Business Impact & Key Insights
+---
 
-Identified high-revenue products (e.g., premium electronics) driving the majority of profit.
+## 📊 Dashboard Features  
 
-Detected low-performing products with minimal contribution to sales and profitability.
+### 🔹 Sales by City (Map View)  
+Visualizes geographic distribution of sales to identify high-performing regions.  
 
-Found strong positive correlation between net sales and profit.
+### 🔹 Profit vs Net Sales (Scatter Plot)  
+Helps understand the relationship between revenue and profitability.  
 
-Observed seasonal sales spikes during specific time periods.
+### 🔹 Sales Trends Over Time  
+Tracks performance from **2020–2024**, highlighting seasonal patterns.  
 
-Enabled management to optimize promotions and focus on high-margin products.
+### 🔹 Top & Bottom 5 Products  
+- Based on **Sales**  
+- Based on **Profit**  
+- Based on **Quantity Sold**  
 
-(https://github.com/shrijee264/Store_data_analysis_dashbord/blob/main/Dashboard_page1.png)
-   
+### 🔹 Promotion Performance Analysis  
+Evaluates how different promotions and discounts impact sales.  
+
+### 🔹 KPI Cards  
+- Total Sales  
+- Total Profit  
+- Total Quantity  
+
+### 🔹 Interactive Filters  
+- Date  
+- Product  
+- Customer  
+- Promotion  
+
+---
+
+## 📈 Key Insights  
+
+- High-revenue products (e.g., premium categories) contribute significantly to profit  
+- Certain products show **low sales and negative profitability**  
+- Strong **positive correlation between sales and profit**  
+- Noticeable **seasonal spikes in sales performance**  
+- Promotions can significantly impact revenue but need optimization  
+
+---
+
+## 💡 Business Impact  
+
+This dashboard enables:  
+
+- **Better inventory planning** by identifying fast-moving products  
+- **Profit optimization** by focusing on high-margin items  
+- **Improved marketing strategies** through promotion analysis  
+- **Regional expansion decisions** based on city-wise performance  
+
+---
+
+## 🖼️ Dashboard Preview  
+
+![Dashboard Screenshot](https://github.com/shrijee264/Store_data_analysis_dashbord/blob/main/Dashboard_page1.png)
+
+---
